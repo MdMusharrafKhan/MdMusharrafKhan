@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+}
+.mydiv1{
+    background-color: rgb(217, 210, 210);
+    color: blueviolet;
+    height: 20px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.mydiv2{
+    background-color: white;
+    padding-left: 20px;
+}
+.parent{
+    background-color: lightskyblue;
+    margin-left: 400px;
+    
+    height: 250px;
+    width: 500px;
+
+}
+.innerdiv{
+    background-color: orange;
+    display: inline-block;
+    height: 70px;
+    width: 80px;
+    margin-left: 35px;
+    margin-top: 55px;
+    margin-right: 0px;
+    border-radius: 20px;
+
+}
+.mybutton{
+    background-color: rgb(0, 79, 250);
+    color: white;
+    border: none;
+    margin-top: 30px;
+    margin-left: 135px;
+    height: 35px;
+    width: 250px;
+    cursor: pointer;
+    
+}
+.mylast{
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 400px;
+    height: 60px;
+    width: 500px;
+}
